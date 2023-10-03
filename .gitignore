@@ -1,0 +1,21 @@
+# assignment
+_doc.public
+_doc.private
+
+# ocaml
+*.cmo
+*.cma
+*.cmi
+*.cmxa
+*.cmxs
+*.out
+*.cmx
+*.native
+*.byte
+_build
+
+# temporary files
+*.swp
+*~
+\#*\#
+.DS_Store

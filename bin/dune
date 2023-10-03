@@ -1,0 +1,4 @@
+(executable
+ (public_name lingtypes)
+ (name main)
+ (libraries lingtypes ast))
